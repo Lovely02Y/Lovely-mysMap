@@ -58,7 +58,7 @@ export class MysMap extends plugin {
       name: '更新米游社大地图资源',
       fnc: () => this.init()
     }
-    this.path = './plugins/mysMap'
+    this.path = './plugins/Lovely-mysMap'
   }
 
   async init () {
