@@ -14,7 +14,7 @@ export function supportGuoba() {
         link: 'https://github.com/Lovely02Y/Lovely-mysMap',
         isV3: true,
         isV2: false,
-        description: 'Lovely-mysMap'
+        description: '一个适用于Yunzai-Bot的全新提瓦特地图资源查询'
     }
     }
 }
